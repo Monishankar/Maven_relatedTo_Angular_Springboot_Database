@@ -1,0 +1,18 @@
+Retrieve all Todos for A user
+GET /users/{user_name}/todos
+
+Delete a Todo of a user 
+DELETE/users/{username}/todos/{id}
+
+Edit/Update a Todo 
+PUT/users/{user_name}/todos/{todos_id}
+
+Create a new Todo 
+POST/users/{user_name}/todos/
+
+
+To open a class file
+CTRL+shift+T/CTRL+shift+H
+
+To get a filterable list of declarations in the current file/To open a particular method in a class,
+CTRL+O 
